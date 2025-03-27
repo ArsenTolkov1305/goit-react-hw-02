@@ -1,0 +1,22 @@
+.container {
+  max-width: 75%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: lightblue;
+  margin-bottom: 30px;
+}
+
+h3 {
+  color: yellow;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+}

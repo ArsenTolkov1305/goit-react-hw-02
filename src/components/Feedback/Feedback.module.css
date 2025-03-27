@@ -1,0 +1,17 @@
+.feedback {
+  margin-top: 20px;
+}
+
+.feedback h2 {
+  margin-bottom: 15px;
+}
+
+.feedback ul {
+  list-style: none;
+  padding: 0;
+}
+
+.feedback li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
